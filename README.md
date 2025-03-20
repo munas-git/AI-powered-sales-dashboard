@@ -17,6 +17,13 @@ This project helps sales teams and analysts visualize trends, revenue, and retur
 - 🔎 **Interactive Filters**: Filter by year and product category for dynamic updates across all visualizations.
 - 💡 **ETL Optimization**: Backend pipeline engineered with **Azure Data Factory** for high-volume data handling (1M+ rows).
 
+## 🧠 Tech Stack
+
+- MongoDB (via `pymongo`)  
+- Python: Streamlit, Plotly, Pandas
+- LangChain: RAG-based AI Agent  
+
+
 ---
 
 ## ⚙️ Getting Started
