@@ -6,7 +6,7 @@ This project helps sales teams and analysts visualize trends, revenue, and retur
 
 ---
 ## 🎥 Demo Video (click to watch ⬇)  
-[![Watch the video](https://github.com/user-attachments/assets/edc9e9e5-a134-4197-b4e4-7da46e6f49fa)](https://youtu.be/W1dqJ8m9B1k)
+[![Watch the video](https://github.com/user-attachments/assets/edc9e9e5-a134-4197-b4e4-7da46e6f49fa)](https://www.linkedin.com/posts/einstein-ebereonwu_ai-sme-smb-activity-7284494389354102784-67f2/?utm_source=share&utm_medium=member_desktop)
 
 
 ## 🚀 Features
